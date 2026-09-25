@@ -14,8 +14,8 @@ export const profile = {
   github: "https://github.com/haq-ops",
   linkedin: "https://linkedin.com/in/faslulhaqfarees",
   cv: "/faslulhaq-farees-cv.pdf",
-  // Put a square photo in /public (e.g. public/profile.jpg) and set: photo: "/profile.jpg"
-  photo: null,
+  // Your photo must be saved as public/profile.jpg (square works best)
+  photo: "/profile.jpg",
   heroBlurb:
     "IT undergraduate at SLIIT who builds scalable web apps with the MERN stack and Spring Boot, and ships them with Docker and CI/CD. I'm looking for a software engineering internship.",
 };
@@ -163,7 +163,7 @@ export const projects = [
     description:
       "A scalable learning management system built as 5+ microservices (assessment, discussion, notifications) behind an API gateway. CI/CD with GitHub Actions cut deployment time by 50%.",
     tech: ["Node.js", "React", "MySQL", "Docker", "Nginx", "GitHub Actions"],
-    github: "https://github.com/haq-ops",
+    github: "https://github.com/ShamalIro/EduFlex.git",
     demo: null,
     image: null,
     gradient: "from-blue-900 to-violet-700",
@@ -175,7 +175,7 @@ export const projects = [
     description:
       "A campus platform with a facilities catalogue, maintenance incident ticketing and role-based user management, built by a team across 7 feature branches.",
     tech: ["Spring Boot", "React", "Vite", "Docker", "Nginx", "Maven"],
-    github: "https://github.com/haq-ops",
+    github: "https://github.com/ShamalIro/it3030-paf-2026-smart-campus-WE_151_3.1.git",
     demo: null,
     image: null,
     gradient: "from-emerald-800 to-cyan-700",
@@ -187,7 +187,7 @@ export const projects = [
     description:
       "A platform to report and recover lost items. Its AI matching engine, built on the OpenAI API, reaches over 80% item-to-report match accuracy.",
     tech: ["React", "Node.js", "MongoDB", "OpenAI API"],
-    github: "https://github.com/haq-ops",
+    github: "https://github.com/haq-ops/Lostiq.git",
     demo: null,
     image: null,
     gradient: "from-orange-800 to-pink-700",
