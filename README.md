@@ -2,7 +2,7 @@
 
 My personal portfolio website, built with **Next.js**, **React**, **Tailwind CSS** and **Framer Motion**.
 
-🔗 **Live site:** https://faslulhaq.netlify.app
+🔗 **Live site:** https://faslulhaq.vercel.app/
 
 ## About me
 
